@@ -1,17 +1,15 @@
-# GGrub
-issue tracker for ggrub
 
-# Issue Creation Guidelines#ssdsdsdsddE
+## Issue Creation Guidelines
 
 Please follow this template while creating issues. It will help us in fixing the issue faster by our Dev Team.
 
-## Expected behavior
+### Expected behavior
 
-## Actual behaviour
+### Actual behaviour
 
-## Steps to reproduce the issue
+### Steps to reproduce the issue
 
-# Additional Device Info2
+### Additional Device Info2
 Device Model & Make:
 OS version:
 App version:

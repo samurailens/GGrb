@@ -5,7 +5,8 @@ Please follow this template while creating issues. It will help us in fixing the
 
 If an use case fails due to updating of server API ( like adding new param to an existing request ), please clearly mention the expected new param. It is always safe to limit changes like these.
 
-
+Issues in functionality will be given utmost priority over cosmetic issues. 
+Usability issues are not cosmetic issues. 
 
 
 ### Expected behavior

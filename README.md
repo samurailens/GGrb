@@ -8,6 +8,7 @@ If an use case fails due to updating of server API ( like adding new param to an
 Issues in functionality will be given utmost priority over cosmetic issues. 
 Usability issues are not cosmetic issues. 
 
+Please make use of filters/labels available in issue creation to tag issues appropriately. 
 
 ### Expected behavior
 
